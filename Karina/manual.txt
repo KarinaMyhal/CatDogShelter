@@ -1,0 +1,15 @@
+height: 100vh - висота елемента на всю висоту вікна браузера
+
+* {
+    box-sizing: border-box;
+} - щоб border та padding не розширювали елемент
+
+@import url('https://f ...і тд - підключення шрифтів
+
+text-decoration: none; - прибрати підкреслення у посилань (у тегів <a>)
+
+gap: 70px; - відстань між елементами у блоці з display: flex
+
+display: none; - приховати об'єкт
+
+height або width: fit-content; - автоматична висота чи ширина
